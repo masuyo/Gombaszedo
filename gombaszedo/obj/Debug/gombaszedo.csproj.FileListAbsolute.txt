@@ -1,0 +1,12 @@
+D:\ÓE-NIK 2014\1. félév\Programozás 1\féléves feladat\gombaszedés\gombaszedo\gombaszedo\bin\Debug\gombaszedo.exe.config
+D:\ÓE-NIK 2014\1. félév\Programozás 1\féléves feladat\gombaszedés\gombaszedo\gombaszedo\bin\Debug\gombaszedo.exe
+D:\ÓE-NIK 2014\1. félév\Programozás 1\féléves feladat\gombaszedés\gombaszedo\gombaszedo\bin\Debug\gombaszedo.pdb
+D:\ÓE-NIK 2014\1. félév\Programozás 1\féléves feladat\gombaszedés\gombaszedo\gombaszedo\obj\Debug\gombaszedo.csprojResolveAssemblyReference.cache
+D:\ÓE-NIK 2014\1. félév\Programozás 1\féléves feladat\gombaszedés\gombaszedo\gombaszedo\obj\Debug\gombaszedo.exe
+D:\ÓE-NIK 2014\1. félév\Programozás 1\féléves feladat\gombaszedés\gombaszedo\gombaszedo\obj\Debug\gombaszedo.pdb
+D:\TANANYAG\ÓE-NIK\2014-15-1\Programozás 1\féléves feladat\gombaszedés\gombaszedo\gombaszedo\bin\Debug\gombaszedo.exe.config
+D:\TANANYAG\ÓE-NIK\2014-15-1\Programozás 1\féléves feladat\gombaszedés\gombaszedo\gombaszedo\obj\Debug\gombaszedo.exe
+D:\TANANYAG\ÓE-NIK\2014-15-1\Programozás 1\féléves feladat\gombaszedés\gombaszedo\gombaszedo\obj\Debug\gombaszedo.pdb
+D:\MediaFire\TANANYAG\ÓE-NIK\2014-15-1\Programozás 1\féléves feladat\gombaszedés\gombaszedo\gombaszedo\bin\Debug\gombaszedo.exe.config
+D:\MediaFire\TANANYAG\ÓE-NIK\2014-15-1\Programozás 1\féléves feladat\gombaszedés\gombaszedo\gombaszedo\obj\Debug\gombaszedo.exe
+D:\MediaFire\TANANYAG\ÓE-NIK\2014-15-1\Programozás 1\féléves feladat\gombaszedés\gombaszedo\gombaszedo\obj\Debug\gombaszedo.pdb
